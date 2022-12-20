@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.container {
+  background: rgb(1, 20, 11);
+  height: 600px;
+  width: 570px;
+  margin-top: 150px;
+  padding-top: 35px;
+}
+.row {
+  background: white;
+  border-radius: 3%;
+  height: 530px;
+  width: 400px;
+  margin-left: 70px;
+}
+.col-12 {
+  font-size: 100px;
+}
+#numero {
+  text-align: center;
+  font-size: 120px;
+}
+#pintadown {
+  text-align: end;
+}
